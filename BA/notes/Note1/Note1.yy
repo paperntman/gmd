@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"Note1",
+  "name":"Note1",
+  "parent":{
+    "name":"오브젝트",
+    "path":"folders/오브젝트.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
