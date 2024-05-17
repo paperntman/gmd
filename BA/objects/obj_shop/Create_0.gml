@@ -1,1 +1,0 @@
-global.distance = 0

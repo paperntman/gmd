@@ -1,1 +1,0 @@
-if(global.distance < 50) room_goto(2)
