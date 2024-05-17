@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+<<<<<<< Updated upstream
     {"name":"Particle Systems","order":13,"path":"folders/Particle Systems.yy",},
     {"name":"경로","order":3,"path":"folders/경로.yy",},
     {"name":"글꼴","order":5,"path":"folders/글꼴.yy",},
@@ -20,17 +21,51 @@
   "ResourceOrderSettings":[
     {"name":"Note1","order":2,"path":"notes/Note1/Note1.yy",},
     {"name":"obj_key_e","order":6,"path":"objects/obj_key_e/obj_key_e.yy",},
+=======
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"경로","order":4,"path":"folders/경로.yy",},
+    {"name":"글꼴","order":7,"path":"folders/글꼴.yy",},
+    {"name":"룸","order":10,"path":"folders/룸.yy",},
+    {"name":"메모장","order":13,"path":"folders/메모장.yy",},
+    {"name":"사운드","order":3,"path":"folders/사운드.yy",},
+    {"name":"셰이더","order":6,"path":"folders/셰이더.yy",},
+    {"name":"스크립트","order":5,"path":"folders/스크립트.yy",},
+    {"name":"스프라이트","order":1,"path":"folders/스프라이트.yy",},
+    {"name":"assets","order":6,"path":"folders/스프라이트/assets.yy",},
+    {"name":"player","order":5,"path":"folders/스프라이트/player.yy",},
+    {"name":"start","order":7,"path":"folders/스프라이트/start.yy",},
+    {"name":"시퀀스","order":11,"path":"folders/시퀀스.yy",},
+    {"name":"애니메이션 곡선","order":12,"path":"folders/애니메이션 곡선.yy",},
+    {"name":"오브젝트","order":9,"path":"folders/오브젝트.yy",},
+    {"name":"start","order":5,"path":"folders/오브젝트/start.yy",},
+    {"name":"타일 세트","order":2,"path":"folders/타일 세트.yy",},
+    {"name":"타임라인","order":8,"path":"folders/타임라인.yy",},
+    {"name":"확장","order":14,"path":"folders/확장.yy",},
+  ],
+  "ResourceOrderSettings":[
+>>>>>>> Stashed changes
     {"name":"obj_main_manager","order":3,"path":"objects/obj_main_manager/obj_main_manager.yy",},
     {"name":"obj_precise_tile_checker","order":4,"path":"objects/obj_precise_tile_checker/obj_precise_tile_checker.yy",},
     {"name":"obj_room_manager","order":7,"path":"objects/obj_room_manager/obj_room_manager.yy",},
     {"name":"obj_shop","order":5,"path":"objects/obj_shop/obj_shop.yy",},
     {"name":"Maul","order":1,"path":"rooms/Maul/Maul.yy",},
+<<<<<<< Updated upstream
     {"name":"distance","order":1,"path":"scripts/distance/distance.yy",},
     {"name":"block","order":3,"path":"sprites/block/block.yy",},
     {"name":"collision_frame","order":4,"path":"sprites/collision_frame/collision_frame.yy",},
     {"name":"collision_tileset","order":1,"path":"sprites/collision_tileset/collision_tileset.yy",},
     {"name":"shop","order":1,"path":"sprites/shop/shop.yy",},
     {"name":"spr_space_press","order":5,"path":"sprites/spr_space_press/spr_space_press.yy",},
+=======
+    {"name":"Start","order":2,"path":"rooms/Start/Start.yy",},
+    {"name":"block","order":3,"path":"sprites/block/block.yy",},
+    {"name":"collision_frame","order":4,"path":"sprites/collision_frame/collision_frame.yy",},
+    {"name":"collision_tileset","order":1,"path":"sprites/collision_tileset/collision_tileset.yy",},
+    {"name":"spr_logo","order":1,"path":"sprites/spr_logo/spr_logo.yy",},
+    {"name":"spr_menu","order":3,"path":"sprites/spr_menu/spr_menu.yy",},
+    {"name":"spr_start_background","order":2,"path":"sprites/spr_start_background/spr_start_background.yy",},
+    {"name":"spr_bar","order":4,"path":"sprites/spr_bar/spr_bar.yy",},
+>>>>>>> Stashed changes
     {"name":"collision","order":1,"path":"tilesets/collision/collision.yy",},
   ],
 }
