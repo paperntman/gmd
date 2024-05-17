@@ -21,7 +21,10 @@
     {"$GMFolder":"","%Name":"스프라이트","folderPath":"folders/스프라이트.yy","name":"스프라이트","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"assets","folderPath":"folders/스프라이트/assets.yy","name":"assets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"player","folderPath":"folders/스프라이트/player.yy","name":"player","resourceType":"GMFolder","resourceVersion":"2.0",},
+<<<<<<< Updated upstream
     {"$GMFolder":"","%Name":"building","folderPath":"folders/스프라이트/building.yy","name":"building","resourceType":"GMFolder","resourceVersion":"2.0",},
+=======
+>>>>>>> Stashed changes
     {"$GMFolder":"","%Name":"시퀀스","folderPath":"folders/시퀀스.yy","name":"시퀀스","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"애니메이션 곡선","folderPath":"folders/애니메이션 곡선.yy","name":"애니메이션 곡선","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"오브젝트","folderPath":"folders/오브젝트.yy","name":"오브젝트","resourceType":"GMFolder","resourceVersion":"2.0",},
