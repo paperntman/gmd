@@ -21,11 +21,15 @@
     {"$GMFolder":"","%Name":"스프라이트","folderPath":"folders/스프라이트.yy","name":"스프라이트","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"player","folderPath":"folders/스프라이트/player.yy","name":"player","resourceType":"GMFolder","resourceVersion":"2.0",},
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     {"$GMFolder":"","%Name":"building","folderPath":"folders/스프라이트/building.yy","name":"building","resourceType":"GMFolder","resourceVersion":"2.0",},
 =======
     {"$GMFolder":"","%Name":"start","folderPath":"folders/스프라이트/start.yy","name":"start","resourceType":"GMFolder","resourceVersion":"2.0",},
 >>>>>>> Stashed changes
+=======
+    {"$GMFolder":"","%Name":"assets","folderPath":"folders/스프라이트/assets.yy","name":"assets","resourceType":"GMFolder","resourceVersion":"2.0",},
+>>>>>>> parent of 11306b5 (20240422)
 =======
     {"$GMFolder":"","%Name":"assets","folderPath":"folders/스프라이트/assets.yy","name":"assets","resourceType":"GMFolder","resourceVersion":"2.0",},
 >>>>>>> parent of 11306b5 (20240422)
@@ -53,6 +57,7 @@
     {"id":{"name":"Main","path":"rooms/Main/Main.yy",},},
     {"id":{"name":"Maul","path":"rooms/Maul/Maul.yy",},},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"room_shop","path":"rooms/room_shop/room_shop.yy",},},
     {"id":{"name":"distance","path":"scripts/distance/distance.yy",},},
 =======
@@ -66,6 +71,8 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> parent of 11306b5 (20240422)
+=======
+>>>>>>> parent of 11306b5 (20240422)
     {"id":{"name":"tile_meeting_precise","path":"scripts/tile_meeting_precise/tile_meeting_precise.yy",},},
     {"id":{"name":"Sequence1","path":"sequences/Sequence1/Sequence1.yy",},},
     {"id":{"name":"background","path":"sprites/background/background.yy",},},
@@ -73,6 +80,7 @@
     {"id":{"name":"collision_frame","path":"sprites/collision_frame/collision_frame.yy",},},
     {"id":{"name":"collision_tileset","path":"sprites/collision_tileset/collision_tileset.yy",},},
     {"id":{"name":"player_idle","path":"sprites/player_idle/player_idle.yy",},},
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
     {"id":{"name":"shop","path":"sprites/shop/shop.yy",},},
@@ -84,6 +92,8 @@
     {"id":{"name":"spr_start_background","path":"sprites/spr_start_background/spr_start_background.yy",},},
     {"id":{"name":"spr_bar","path":"sprites/spr_bar/spr_bar.yy",},},
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 11306b5 (20240422)
 =======
 >>>>>>> parent of 11306b5 (20240422)
     {"id":{"name":"collision","path":"tilesets/collision/collision.yy",},},
